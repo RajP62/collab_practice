@@ -1,0 +1,23 @@
+{
+  "name": "collab_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwind build ./src/style.css -o ./build/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajP62/collab_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajP62/collab_practice/issues"
+  },
+  "homepage": "https://github.com/RajP62/collab_practice#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
